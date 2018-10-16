@@ -14,6 +14,7 @@
 		130471A52175C9D1004FFA75 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 130471A32175C9D1004FFA75 /* LaunchScreen.storyboard */; };
 		130471B02175C9D1004FFA75 /* CinemaAppTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 130471AF2175C9D1004FFA75 /* CinemaAppTests.swift */; };
 		130471BB2175C9D1004FFA75 /* CinemaAppUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 130471BA2175C9D1004FFA75 /* CinemaAppUITests.swift */; };
+		130471CB2175EBBB004FFA75 /* RegisterPageViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 130471CA2175EBBB004FFA75 /* RegisterPageViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		130471B62175C9D1004FFA75 /* CinemaAppUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = CinemaAppUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		130471BA2175C9D1004FFA75 /* CinemaAppUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CinemaAppUITests.swift; sourceTree = "<group>"; };
 		130471BC2175C9D1004FFA75 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		130471CA2175EBBB004FFA75 /* RegisterPageViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RegisterPageViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +105,7 @@
 				130471A12175C9D1004FFA75 /* Assets.xcassets */,
 				130471A32175C9D1004FFA75 /* LaunchScreen.storyboard */,
 				130471A62175C9D1004FFA75 /* Info.plist */,
+				130471CA2175EBBB004FFA75 /* RegisterPageViewController.swift */,
 			);
 			path = CinemaApp;
 			sourceTree = "<group>";
@@ -258,6 +261,7 @@
 			files = (
 				1304719D2175C9D0004FFA75 /* ViewController.swift in Sources */,
 				1304719B2175C9D0004FFA75 /* AppDelegate.swift in Sources */,
+				130471CB2175EBBB004FFA75 /* RegisterPageViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

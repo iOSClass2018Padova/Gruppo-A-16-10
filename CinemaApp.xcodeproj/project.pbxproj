@@ -14,6 +14,7 @@
 		130471A52175C9D1004FFA75 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 130471A32175C9D1004FFA75 /* LaunchScreen.storyboard */; };
 		130471B02175C9D1004FFA75 /* CinemaAppTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 130471AF2175C9D1004FFA75 /* CinemaAppTests.swift */; };
 		130471BB2175C9D1004FFA75 /* CinemaAppUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 130471BA2175C9D1004FFA75 /* CinemaAppUITests.swift */; };
+		9C47455D2175DC2700C44CC4 /* MyPet in Resources */ = {isa = PBXBuildFile; fileRef = 9C47455C2175DC2700C44CC4 /* MyPet */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		130471B62175C9D1004FFA75 /* CinemaAppUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = CinemaAppUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		130471BA2175C9D1004FFA75 /* CinemaAppUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CinemaAppUITests.swift; sourceTree = "<group>"; };
 		130471BC2175C9D1004FFA75 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		9C47455C2175DC2700C44CC4 /* MyPet */ = {isa = PBXFileReference; lastKnownFileType = folder; name = MyPet; path = ../../MyPet; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -97,6 +99,7 @@
 		130471992175C9D0004FFA75 /* CinemaApp */ = {
 			isa = PBXGroup;
 			children = (
+				9C47455C2175DC2700C44CC4 /* MyPet */,
 				1304719A2175C9D0004FFA75 /* AppDelegate.swift */,
 				1304719C2175C9D0004FFA75 /* ViewController.swift */,
 				1304719E2175C9D0004FFA75 /* Main.storyboard */,
@@ -229,6 +232,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9C47455D2175DC2700C44CC4 /* MyPet in Resources */,
 				130471A52175C9D1004FFA75 /* LaunchScreen.storyboard in Resources */,
 				130471A22175C9D1004FFA75 /* Assets.xcassets in Resources */,
 				130471A02175C9D0004FFA75 /* Main.storyboard in Resources */,

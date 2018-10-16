@@ -14,7 +14,7 @@
 		130471A52175C9D1004FFA75 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 130471A32175C9D1004FFA75 /* LaunchScreen.storyboard */; };
 		130471B02175C9D1004FFA75 /* CinemaAppTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 130471AF2175C9D1004FFA75 /* CinemaAppTests.swift */; };
 		130471BB2175C9D1004FFA75 /* CinemaAppUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 130471BA2175C9D1004FFA75 /* CinemaAppUITests.swift */; };
-		E49204B942101FE49241435B /* Pods_CinemaApp.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3162CDD872D83ABEF637B3BE /* Pods_CinemaApp.framework */; };
+		9C47455D2175DC2700C44CC4 /* MyPet in Resources */ = {isa = PBXBuildFile; fileRef = 9C47455C2175DC2700C44CC4 /* MyPet */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -48,9 +48,7 @@
 		130471B62175C9D1004FFA75 /* CinemaAppUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = CinemaAppUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		130471BA2175C9D1004FFA75 /* CinemaAppUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CinemaAppUITests.swift; sourceTree = "<group>"; };
 		130471BC2175C9D1004FFA75 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		1F0FC8B1C335DEE035C1CCE5 /* Pods-CinemaApp.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-CinemaApp.debug.xcconfig"; path = "Pods/Target Support Files/Pods-CinemaApp/Pods-CinemaApp.debug.xcconfig"; sourceTree = "<group>"; };
-		3162CDD872D83ABEF637B3BE /* Pods_CinemaApp.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_CinemaApp.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		8E1CF2F38BB33EDEEA79EAB9 /* Pods-CinemaApp.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-CinemaApp.release.xcconfig"; path = "Pods/Target Support Files/Pods-CinemaApp/Pods-CinemaApp.release.xcconfig"; sourceTree = "<group>"; };
+		9C47455C2175DC2700C44CC4 /* MyPet */ = {isa = PBXFileReference; lastKnownFileType = folder; name = MyPet; path = ../../MyPet; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
